@@ -59,7 +59,7 @@ function openEpisodes(seasonNum, seasonName) {
         let fileName = `s${seasonNum}_ep${i}.docx`;
         
         // كمثال: نفرض أول 5 حلقات من الموسم الأول متاحة، والباقي "قريباً"
-        if (seasonNum === 1 && i <= 2) {
+        if (seasonNum === 1 && i <= 1) {
             row.innerHTML = `
                 <h3>الحلقة ${i}</h3>
                 <a href="${fileName}" download class="download-btn">تحميل الحلقة</a>
