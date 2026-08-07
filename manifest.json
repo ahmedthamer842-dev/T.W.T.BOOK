@@ -1,17 +1,14 @@
 {
-  "name": "رواية القبعة البيضاء",
-  "short_name": "القبعة البيضاء",
-  "description": "تطبيق لقراءة رواية القبعة البيضاء",
-  "start_url": "./index.html",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "رواية القبعة البيضاء",
+  "orientation": "any",
+  "scope": "/T.W.T.BOOK/",
+  "short_name": "القبعة البيضاء",
+  "start_url": "/T.W.T.BOOK/index.html",
+  "theme_color": "#ffffff",
+  "id": "/T.W.T.BOOK/",
+  "description": "تطبيق قراءة رواية القبعة البيضاء",
+  "lang": "ar"
 }
