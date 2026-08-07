@@ -1,15 +1,11 @@
 {
-"name": "رواية القبعة البيضاء كاملة",
-"short_name": "القبعة البيضاء",
-"start_url": "./index.html",
-"display": "standalone",
-"background_color": "#ffffff",
-"theme_color": "#000000",
-"icons": [
-    {
-"src": "icon.png",
-"sizes": "512x512",
-"type": "image/png"
-    }
-]
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "القبعة البيضاء",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "القبعة البيضاء",
+  "start_url": "/",
+  "theme_color": "#ffffff"
 }
